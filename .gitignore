@@ -1,0 +1,39 @@
+# Node
+node_modules/
+frontend/node_modules/
+
+# Vite
+.vite/
+frontend/.vite/
+
+# Build outputs
+dist/
+frontend/dist/
+build/
+backend/build/
+backend/build-verify/
+backend/build-server/
+backend/build-server2/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+frontend/.env
+frontend/.env.local
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

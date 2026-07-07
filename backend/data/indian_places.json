@@ -1,0 +1,1558 @@
+[
+  {
+    "id": 0,
+    "name": "Delhi",
+    "state": "Delhi",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "cost": 3000,
+    "value": 85,
+    "visitHours": 7,
+    "interests": [
+      "history",
+      "food",
+      "culture"
+    ],
+    "open": "09:00",
+    "close": "18:00",
+    "category": "city",
+    "rating": 4.6,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "delhi",
+      "history"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Delhi%2C%20Delhi%2C%20India%2C%20travel"
+  },
+  {
+    "id": 1,
+    "name": "Agra",
+    "state": "Uttar Pradesh",
+    "lat": 27.1767,
+    "lng": 78.0081,
+    "cost": 2500,
+    "value": 95,
+    "visitHours": 6,
+    "interests": [
+      "history",
+      "architecture"
+    ],
+    "open": "06:00",
+    "close": "19:00",
+    "category": "heritage_site",
+    "rating": 4.9,
+    "tags": [
+      "unesco",
+      "heritage",
+      "architecture",
+      "uttar-pradesh",
+      "history"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Agra%2C%20Uttar%20Pradesh%2C%20India%2C%20travel"
+  },
+  {
+    "id": 2,
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "cost": 2800,
+    "value": 90,
+    "visitHours": 7,
+    "interests": [
+      "heritage",
+      "shopping"
+    ],
+    "open": "09:00",
+    "close": "18:00",
+    "category": "city",
+    "rating": 4.7,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "rajasthan",
+      "heritage",
+      "shopping"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Jaipur%2C%20Rajasthan%2C%20India%2C%20travel"
+  },
+  {
+    "id": 3,
+    "name": "Udaipur",
+    "state": "Rajasthan",
+    "lat": 24.5854,
+    "lng": 73.7125,
+    "cost": 3200,
+    "value": 88,
+    "visitHours": 6,
+    "interests": [
+      "lakes",
+      "heritage"
+    ],
+    "open": "09:00",
+    "close": "18:00",
+    "category": "city",
+    "rating": 4.8,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "rajasthan",
+      "lakes",
+      "heritage"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Udaipur%2C%20Rajasthan%2C%20India%2C%20travel"
+  },
+  {
+    "id": 4,
+    "name": "Jodhpur",
+    "state": "Rajasthan",
+    "lat": 26.2389,
+    "lng": 73.0243,
+    "cost": 2600,
+    "value": 82,
+    "visitHours": 6,
+    "interests": [
+      "forts",
+      "heritage"
+    ],
+    "open": "09:00",
+    "close": "17:30",
+    "category": "fort",
+    "rating": 4.6,
+    "tags": [
+      "fort",
+      "history",
+      "architecture",
+      "rajasthan",
+      "forts",
+      "heritage"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Jodhpur%2C%20Rajasthan%2C%20India%2C%20travel"
+  },
+  {
+    "id": 5,
+    "name": "Varanasi",
+    "state": "Uttar Pradesh",
+    "lat": 25.3176,
+    "lng": 82.9739,
+    "cost": 2400,
+    "value": 92,
+    "visitHours": 7,
+    "interests": [
+      "spiritual",
+      "culture"
+    ],
+    "open": "05:00",
+    "close": "21:00",
+    "category": "temple",
+    "rating": 4.8,
+    "tags": [
+      "temple",
+      "spiritual",
+      "culture",
+      "uttar-pradesh"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Varanasi%2C%20Uttar%20Pradesh%2C%20India%2C%20travel"
+  },
+  {
+    "id": 6,
+    "name": "Amritsar",
+    "state": "Punjab",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "cost": 2300,
+    "value": 84,
+    "visitHours": 5,
+    "interests": [
+      "spiritual",
+      "food",
+      "history"
+    ],
+    "open": "05:00",
+    "close": "22:00",
+    "category": "temple",
+    "rating": 4.8,
+    "tags": [
+      "temple",
+      "spiritual",
+      "culture",
+      "punjab",
+      "food",
+      "history"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Amritsar%2C%20Punjab%2C%20India%2C%20travel"
+  },
+  {
+    "id": 7,
+    "name": "Shimla",
+    "state": "Himachal Pradesh",
+    "lat": 31.1048,
+    "lng": 77.1734,
+    "cost": 3000,
+    "value": 78,
+    "visitHours": 6,
+    "interests": [
+      "mountains",
+      "nature"
+    ],
+    "open": "08:00",
+    "close": "19:00",
+    "category": "hill_station",
+    "rating": 4.4,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "himachal-pradesh"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Shimla%2C%20Himachal%20Pradesh%2C%20India%2C%20travel"
+  },
+  {
+    "id": 8,
+    "name": "Manali",
+    "state": "Himachal Pradesh",
+    "lat": 32.2432,
+    "lng": 77.1892,
+    "cost": 3400,
+    "value": 86,
+    "visitHours": 7,
+    "interests": [
+      "mountains",
+      "adventure"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "hill_station",
+    "rating": 4.6,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "himachal-pradesh",
+      "adventure"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Manali%2C%20Himachal%20Pradesh%2C%20India%2C%20travel"
+  },
+  {
+    "id": 9,
+    "name": "Rishikesh",
+    "state": "Uttarakhand",
+    "lat": 30.0869,
+    "lng": 78.2676,
+    "cost": 2600,
+    "value": 83,
+    "visitHours": 6,
+    "interests": [
+      "adventure",
+      "spiritual"
+    ],
+    "open": "06:00",
+    "close": "20:00",
+    "category": "adventure",
+    "rating": 4.6,
+    "tags": [
+      "rafting",
+      "yoga",
+      "river",
+      "uttarakhand",
+      "adventure",
+      "spiritual"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Rishikesh%2C%20Uttarakhand%2C%20India%2C%20travel"
+  },
+  {
+    "id": 10,
+    "name": "Nainital",
+    "state": "Uttarakhand",
+    "lat": 29.3919,
+    "lng": 79.4542,
+    "cost": 2800,
+    "value": 77,
+    "visitHours": 5,
+    "interests": [
+      "lakes",
+      "nature"
+    ],
+    "open": "08:00",
+    "close": "19:00",
+    "category": "hill_station",
+    "rating": 4.3,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "uttarakhand",
+      "lakes"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Nainital%2C%20Uttarakhand%2C%20India%2C%20travel"
+  },
+  {
+    "id": 11,
+    "name": "Leh",
+    "state": "Ladakh",
+    "lat": 34.1526,
+    "lng": 77.5771,
+    "cost": 5200,
+    "value": 94,
+    "visitHours": 8,
+    "interests": [
+      "mountains",
+      "adventure",
+      "monastery"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "hill_station",
+    "rating": 4.9,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "ladakh",
+      "adventure",
+      "monastery"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Leh%2C%20Ladakh%2C%20India%2C%20travel"
+  },
+  {
+    "id": 12,
+    "name": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "lat": 34.0837,
+    "lng": 74.7973,
+    "cost": 4300,
+    "value": 89,
+    "visitHours": 7,
+    "interests": [
+      "lakes",
+      "gardens",
+      "nature"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "hill_station",
+    "rating": 4.7,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "jammu-and-kashmir",
+      "lakes",
+      "gardens"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Srinagar%2C%20Jammu%20and%20Kashmir%2C%20India%2C%20travel"
+  },
+  {
+    "id": 13,
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "cost": 3600,
+    "value": 84,
+    "visitHours": 7,
+    "interests": [
+      "food",
+      "culture",
+      "coast"
+    ],
+    "open": "09:00",
+    "close": "21:00",
+    "category": "city",
+    "rating": 4.5,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "maharashtra",
+      "coast"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Mumbai%2C%20Maharashtra%2C%20India%2C%20travel"
+  },
+  {
+    "id": 14,
+    "name": "Pune",
+    "state": "Maharashtra",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "cost": 2500,
+    "value": 72,
+    "visitHours": 5,
+    "interests": [
+      "history",
+      "food"
+    ],
+    "open": "09:00",
+    "close": "18:00",
+    "category": "city",
+    "rating": 4.3,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "maharashtra",
+      "history"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Pune%2C%20Maharashtra%2C%20India%2C%20travel"
+  },
+  {
+    "id": 15,
+    "name": "Goa",
+    "state": "Goa",
+    "lat": 15.2993,
+    "lng": 74.124,
+    "cost": 4200,
+    "value": 90,
+    "visitHours": 8,
+    "interests": [
+      "beaches",
+      "nightlife",
+      "food"
+    ],
+    "open": "08:00",
+    "close": "22:00",
+    "category": "beach",
+    "rating": 4.7,
+    "tags": [
+      "beach",
+      "coast",
+      "sunset",
+      "goa",
+      "beaches",
+      "nightlife",
+      "food"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Goa%2C%20Goa%2C%20India%2C%20travel"
+  },
+  {
+    "id": 16,
+    "name": "Hampi",
+    "state": "Karnataka",
+    "lat": 15.335,
+    "lng": 76.46,
+    "cost": 2600,
+    "value": 87,
+    "visitHours": 7,
+    "interests": [
+      "heritage",
+      "architecture"
+    ],
+    "open": "08:30",
+    "close": "17:30",
+    "category": "heritage_site",
+    "rating": 4.8,
+    "tags": [
+      "unesco",
+      "heritage",
+      "architecture",
+      "karnataka"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Hampi%2C%20Karnataka%2C%20India%2C%20travel"
+  },
+  {
+    "id": 17,
+    "name": "Bengaluru",
+    "state": "Karnataka",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "cost": 3000,
+    "value": 75,
+    "visitHours": 6,
+    "interests": [
+      "food",
+      "city",
+      "gardens"
+    ],
+    "open": "09:00",
+    "close": "20:00",
+    "category": "city",
+    "rating": 4.3,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "karnataka",
+      "gardens"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Bengaluru%2C%20Karnataka%2C%20India%2C%20travel"
+  },
+  {
+    "id": 18,
+    "name": "Mysuru",
+    "state": "Karnataka",
+    "lat": 12.2958,
+    "lng": 76.6394,
+    "cost": 2400,
+    "value": 82,
+    "visitHours": 6,
+    "interests": [
+      "palace",
+      "heritage"
+    ],
+    "open": "10:00",
+    "close": "17:30",
+    "category": "heritage_site",
+    "rating": 4.6,
+    "tags": [
+      "unesco",
+      "heritage",
+      "architecture",
+      "karnataka",
+      "palace"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Mysuru%2C%20Karnataka%2C%20India%2C%20travel"
+  },
+  {
+    "id": 19,
+    "name": "Coorg",
+    "state": "Karnataka",
+    "lat": 12.3375,
+    "lng": 75.8069,
+    "cost": 3100,
+    "value": 80,
+    "visitHours": 6,
+    "interests": [
+      "nature",
+      "coffee"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "hill_station",
+    "rating": 4.5,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "karnataka",
+      "coffee"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Coorg%2C%20Karnataka%2C%20India%2C%20travel"
+  },
+  {
+    "id": 20,
+    "name": "Kochi",
+    "state": "Kerala",
+    "lat": 9.9312,
+    "lng": 76.2673,
+    "cost": 3000,
+    "value": 80,
+    "visitHours": 6,
+    "interests": [
+      "coast",
+      "culture",
+      "food"
+    ],
+    "open": "09:00",
+    "close": "19:00",
+    "category": "city",
+    "rating": 4.5,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "kerala",
+      "coast"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Kochi%2C%20Kerala%2C%20India%2C%20travel"
+  },
+  {
+    "id": 21,
+    "name": "Munnar",
+    "state": "Kerala",
+    "lat": 10.0889,
+    "lng": 77.0595,
+    "cost": 3200,
+    "value": 84,
+    "visitHours": 7,
+    "interests": [
+      "nature",
+      "tea"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "hill_station",
+    "rating": 4.7,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "kerala",
+      "tea"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Munnar%2C%20Kerala%2C%20India%2C%20travel"
+  },
+  {
+    "id": 22,
+    "name": "Alleppey",
+    "state": "Kerala",
+    "lat": 9.4981,
+    "lng": 76.3388,
+    "cost": 3500,
+    "value": 86,
+    "visitHours": 7,
+    "interests": [
+      "backwaters",
+      "nature"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "backwaters",
+    "rating": 4.6,
+    "tags": [
+      "backwaters",
+      "boat",
+      "nature",
+      "kerala"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Alleppey%2C%20Kerala%2C%20India%2C%20travel"
+  },
+  {
+    "id": 23,
+    "name": "Chennai",
+    "state": "Tamil Nadu",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "cost": 2800,
+    "value": 76,
+    "visitHours": 6,
+    "interests": [
+      "temples",
+      "coast",
+      "food"
+    ],
+    "open": "08:00",
+    "close": "20:00",
+    "category": "city",
+    "rating": 4.3,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "tamil-nadu",
+      "temples",
+      "coast"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Chennai%2C%20Tamil%20Nadu%2C%20India%2C%20travel"
+  },
+  {
+    "id": 24,
+    "name": "Mahabalipuram",
+    "state": "Tamil Nadu",
+    "lat": 12.6269,
+    "lng": 80.1927,
+    "cost": 2200,
+    "value": 81,
+    "visitHours": 5,
+    "interests": [
+      "architecture",
+      "coast"
+    ],
+    "open": "06:00",
+    "close": "18:00",
+    "category": "heritage_site",
+    "rating": 4.6,
+    "tags": [
+      "unesco",
+      "heritage",
+      "architecture",
+      "tamil-nadu",
+      "coast"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Mahabalipuram%2C%20Tamil%20Nadu%2C%20India%2C%20travel"
+  },
+  {
+    "id": 25,
+    "name": "Madurai",
+    "state": "Tamil Nadu",
+    "lat": 9.9252,
+    "lng": 78.1198,
+    "cost": 2300,
+    "value": 83,
+    "visitHours": 5,
+    "interests": [
+      "temples",
+      "culture"
+    ],
+    "open": "05:00",
+    "close": "21:00",
+    "category": "temple",
+    "rating": 4.7,
+    "tags": [
+      "temple",
+      "spiritual",
+      "culture",
+      "tamil-nadu",
+      "temples"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Madurai%2C%20Tamil%20Nadu%2C%20India%2C%20travel"
+  },
+  {
+    "id": 26,
+    "name": "Ooty",
+    "state": "Tamil Nadu",
+    "lat": 11.4102,
+    "lng": 76.695,
+    "cost": 2800,
+    "value": 79,
+    "visitHours": 6,
+    "interests": [
+      "mountains",
+      "tea",
+      "nature"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "hill_station",
+    "rating": 4.4,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "tamil-nadu",
+      "tea"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Ooty%2C%20Tamil%20Nadu%2C%20India%2C%20travel"
+  },
+  {
+    "id": 27,
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "cost": 2900,
+    "value": 81,
+    "visitHours": 6,
+    "interests": [
+      "history",
+      "food"
+    ],
+    "open": "09:00",
+    "close": "20:00",
+    "category": "city",
+    "rating": 4.5,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "telangana",
+      "history"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Hyderabad%2C%20Telangana%2C%20India%2C%20travel"
+  },
+  {
+    "id": 28,
+    "name": "Aurangabad",
+    "state": "Maharashtra",
+    "lat": 19.8762,
+    "lng": 75.3433,
+    "cost": 2500,
+    "value": 85,
+    "visitHours": 6,
+    "interests": [
+      "caves",
+      "history"
+    ],
+    "open": "09:00",
+    "close": "17:30",
+    "category": "heritage_site",
+    "rating": 4.5,
+    "tags": [
+      "unesco",
+      "heritage",
+      "architecture",
+      "maharashtra",
+      "caves",
+      "history"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Aurangabad%2C%20Maharashtra%2C%20India%2C%20travel"
+  },
+  {
+    "id": 29,
+    "name": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "lat": 24.8318,
+    "lng": 79.9199,
+    "cost": 2400,
+    "value": 82,
+    "visitHours": 5,
+    "interests": [
+      "temples",
+      "architecture"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "heritage_site",
+    "rating": 4.6,
+    "tags": [
+      "unesco",
+      "heritage",
+      "architecture",
+      "madhya-pradesh",
+      "temples"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Khajuraho%2C%20Madhya%20Pradesh%2C%20India%2C%20travel"
+  },
+  {
+    "id": 30,
+    "name": "Bhopal",
+    "state": "Madhya Pradesh",
+    "lat": 23.2599,
+    "lng": 77.4126,
+    "cost": 2400,
+    "value": 74,
+    "visitHours": 5,
+    "interests": [
+      "lakes",
+      "history"
+    ],
+    "open": "09:00",
+    "close": "18:00",
+    "category": "city",
+    "rating": 4.2,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "madhya-pradesh",
+      "lakes",
+      "history"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Bhopal%2C%20Madhya%20Pradesh%2C%20India%2C%20travel"
+  },
+  {
+    "id": 31,
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "cost": 3000,
+    "value": 82,
+    "visitHours": 7,
+    "interests": [
+      "culture",
+      "food",
+      "history"
+    ],
+    "open": "09:00",
+    "close": "20:00",
+    "category": "city",
+    "rating": 4.5,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "west-bengal",
+      "history"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Kolkata%2C%20West%20Bengal%2C%20India%2C%20travel"
+  },
+  {
+    "id": 32,
+    "name": "Darjeeling",
+    "state": "West Bengal",
+    "lat": 27.041,
+    "lng": 88.2663,
+    "cost": 3300,
+    "value": 85,
+    "visitHours": 6,
+    "interests": [
+      "mountains",
+      "tea"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "hill_station",
+    "rating": 4.6,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "west-bengal",
+      "tea"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Darjeeling%2C%20West%20Bengal%2C%20India%2C%20travel"
+  },
+  {
+    "id": 33,
+    "name": "Puri",
+    "state": "Odisha",
+    "lat": 19.8135,
+    "lng": 85.8312,
+    "cost": 2600,
+    "value": 80,
+    "visitHours": 6,
+    "interests": [
+      "spiritual",
+      "beaches"
+    ],
+    "open": "05:00",
+    "close": "22:00",
+    "category": "beach",
+    "rating": 4.4,
+    "tags": [
+      "beach",
+      "coast",
+      "sunset",
+      "odisha",
+      "spiritual",
+      "beaches"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Puri%2C%20Odisha%2C%20India%2C%20travel"
+  },
+  {
+    "id": 34,
+    "name": "Bhubaneswar",
+    "state": "Odisha",
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "cost": 2300,
+    "value": 76,
+    "visitHours": 5,
+    "interests": [
+      "temples",
+      "history"
+    ],
+    "open": "08:00",
+    "close": "19:00",
+    "category": "temple",
+    "rating": 4.3,
+    "tags": [
+      "temple",
+      "spiritual",
+      "culture",
+      "odisha",
+      "temples",
+      "history"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Bhubaneswar%2C%20Odisha%2C%20India%2C%20travel"
+  },
+  {
+    "id": 35,
+    "name": "Guwahati",
+    "state": "Assam",
+    "lat": 26.1445,
+    "lng": 91.7362,
+    "cost": 3000,
+    "value": 77,
+    "visitHours": 6,
+    "interests": [
+      "spiritual",
+      "river",
+      "nature"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "city",
+    "rating": 4.2,
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "assam",
+      "spiritual",
+      "river",
+      "nature"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Guwahati%2C%20Assam%2C%20India%2C%20travel"
+  },
+  {
+    "id": 36,
+    "name": "Kaziranga",
+    "state": "Assam",
+    "lat": 26.5775,
+    "lng": 93.1711,
+    "cost": 3900,
+    "value": 90,
+    "visitHours": 7,
+    "interests": [
+      "wildlife",
+      "nature"
+    ],
+    "open": "07:00",
+    "close": "16:00",
+    "category": "national_park",
+    "rating": 4.8,
+    "tags": [
+      "wildlife",
+      "safari",
+      "nature",
+      "assam"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Kaziranga%2C%20Assam%2C%20India%2C%20travel"
+  },
+  {
+    "id": 37,
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "lat": 25.5788,
+    "lng": 91.8933,
+    "cost": 3300,
+    "value": 83,
+    "visitHours": 6,
+    "interests": [
+      "waterfalls",
+      "nature"
+    ],
+    "open": "08:00",
+    "close": "18:00",
+    "category": "hill_station",
+    "rating": 4.5,
+    "tags": [
+      "mountains",
+      "nature",
+      "scenic",
+      "meghalaya",
+      "waterfalls"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Shillong%2C%20Meghalaya%2C%20India%2C%20travel"
+  },
+  {
+    "id": 38,
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "cost": 2500,
+    "value": 78,
+    "visitHours": 5,
+    "interests": [
+      "heritage",
+      "food"
+    ],
+    "open": "09:00",
+    "close": "19:00",
+    "category": "heritage_city",
+    "rating": 4.4,
+    "tags": [
+      "unesco",
+      "heritage",
+      "old-city",
+      "gujarat",
+      "food"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Ahmedabad%2C%20Gujarat%2C%20India%2C%20travel"
+  },
+  {
+    "id": 39,
+    "name": "Rann of Kutch",
+    "state": "Gujarat",
+    "lat": 23.7337,
+    "lng": 69.8597,
+    "cost": 3600,
+    "value": 86,
+    "visitHours": 7,
+    "interests": [
+      "desert",
+      "culture"
+    ],
+    "open": "08:00",
+    "close": "20:00",
+    "category": "desert",
+    "rating": 4.7,
+    "tags": [
+      "desert",
+      "culture",
+      "landscape",
+      "gujarat"
+    ],
+    "imageUrl": "https://source.unsplash.com/1200x800/?Rann%20of%20Kutch%2C%20Gujarat%2C%20India%2C%20travel"
+  },
+  {
+    "id": 40,
+    "name": "Indira Gandhi International Airport",
+    "state": "Delhi",
+    "lat": 28.5562,
+    "lng": 77.1,
+    "category": "airport",
+    "rating": 4.4,
+    "cost": 0,
+    "value": 55,
+    "visitHours": 1,
+    "interests": [
+      "transport",
+      "flight"
+    ],
+    "tags": [
+      "airport",
+      "delhi",
+      "transport",
+      "international"
+    ],
+    "open": "00:00",
+    "close": "23:59",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Indira%20Gandhi%20International%20Airport%2C%20Delhi%2C%20India%2C%20travel"
+  },
+  {
+    "id": 41,
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "state": "Maharashtra",
+    "lat": 19.0902,
+    "lng": 72.8628,
+    "category": "airport",
+    "rating": 4.5,
+    "cost": 0,
+    "value": 56,
+    "visitHours": 1,
+    "interests": [
+      "transport",
+      "flight"
+    ],
+    "tags": [
+      "airport",
+      "mumbai",
+      "transport",
+      "international"
+    ],
+    "open": "00:00",
+    "close": "23:59",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Chhatrapati%20Shivaji%20Maharaj%20International%20Airport%2C%20Maharashtra%2C%20India%2C%20travel"
+  },
+  {
+    "id": 42,
+    "name": "Kempegowda International Airport",
+    "state": "Karnataka",
+    "lat": 13.1986,
+    "lng": 77.7066,
+    "category": "airport",
+    "rating": 4.5,
+    "cost": 0,
+    "value": 54,
+    "visitHours": 1,
+    "interests": [
+      "transport",
+      "flight"
+    ],
+    "tags": [
+      "airport",
+      "bengaluru",
+      "transport"
+    ],
+    "open": "00:00",
+    "close": "23:59",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Kempegowda%20International%20Airport%2C%20Karnataka%2C%20India%2C%20travel"
+  },
+  {
+    "id": 43,
+    "name": "New Delhi Railway Station",
+    "state": "Delhi",
+    "lat": 28.6425,
+    "lng": 77.2206,
+    "category": "railway_station",
+    "rating": 4,
+    "cost": 0,
+    "value": 45,
+    "visitHours": 1,
+    "interests": [
+      "transport",
+      "rail"
+    ],
+    "tags": [
+      "railway-station",
+      "delhi",
+      "transport"
+    ],
+    "open": "00:00",
+    "close": "23:59",
+    "imageUrl": "https://source.unsplash.com/1200x800/?New%20Delhi%20Railway%20Station%2C%20Delhi%2C%20India%2C%20travel"
+  },
+  {
+    "id": 44,
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "state": "Maharashtra",
+    "lat": 18.9398,
+    "lng": 72.8355,
+    "category": "railway_station",
+    "rating": 4.7,
+    "cost": 200,
+    "value": 82,
+    "visitHours": 2,
+    "interests": [
+      "history",
+      "architecture",
+      "transport"
+    ],
+    "tags": [
+      "unesco",
+      "railway-station",
+      "mumbai",
+      "heritage"
+    ],
+    "open": "00:00",
+    "close": "23:59",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Chhatrapati%20Shivaji%20Maharaj%20Terminus%2C%20Maharashtra%2C%20India%2C%20travel"
+  },
+  {
+    "id": 45,
+    "name": "Howrah Junction Railway Station",
+    "state": "West Bengal",
+    "lat": 22.5839,
+    "lng": 88.3426,
+    "category": "railway_station",
+    "rating": 4.2,
+    "cost": 0,
+    "value": 48,
+    "visitHours": 1,
+    "interests": [
+      "transport",
+      "rail"
+    ],
+    "tags": [
+      "railway-station",
+      "kolkata",
+      "transport"
+    ],
+    "open": "00:00",
+    "close": "23:59",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Howrah%20Junction%20Railway%20Station%2C%20West%20Bengal%2C%20India%2C%20travel"
+  },
+  {
+    "id": 46,
+    "name": "Taj Mahal",
+    "state": "Uttar Pradesh",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "category": "heritage_site",
+    "rating": 4.9,
+    "cost": 1300,
+    "value": 100,
+    "visitHours": 3,
+    "interests": [
+      "history",
+      "architecture",
+      "romance"
+    ],
+    "tags": [
+      "unesco",
+      "monument",
+      "agra",
+      "wonder"
+    ],
+    "open": "06:00",
+    "close": "18:30",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Taj%20Mahal%2C%20Uttar%20Pradesh%2C%20India%2C%20travel"
+  },
+  {
+    "id": 47,
+    "name": "Red Fort",
+    "state": "Delhi",
+    "lat": 28.6562,
+    "lng": 77.241,
+    "category": "fort",
+    "rating": 4.5,
+    "cost": 600,
+    "value": 88,
+    "visitHours": 3,
+    "interests": [
+      "history",
+      "architecture"
+    ],
+    "tags": [
+      "unesco",
+      "fort",
+      "delhi"
+    ],
+    "open": "09:30",
+    "close": "16:30",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Red%20Fort%2C%20Delhi%2C%20India%2C%20travel"
+  },
+  {
+    "id": 48,
+    "name": "Qutub Minar",
+    "state": "Delhi",
+    "lat": 28.5245,
+    "lng": 77.1855,
+    "category": "heritage_site",
+    "rating": 4.6,
+    "cost": 600,
+    "value": 87,
+    "visitHours": 2,
+    "interests": [
+      "history",
+      "architecture"
+    ],
+    "tags": [
+      "unesco",
+      "monument",
+      "delhi"
+    ],
+    "open": "07:00",
+    "close": "17:00",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Qutub%20Minar%2C%20Delhi%2C%20India%2C%20travel"
+  },
+  {
+    "id": 49,
+    "name": "Amer Fort",
+    "state": "Rajasthan",
+    "lat": 26.9855,
+    "lng": 75.8513,
+    "category": "fort",
+    "rating": 4.7,
+    "cost": 500,
+    "value": 90,
+    "visitHours": 3,
+    "interests": [
+      "forts",
+      "heritage",
+      "architecture"
+    ],
+    "tags": [
+      "fort",
+      "jaipur",
+      "heritage"
+    ],
+    "open": "08:00",
+    "close": "17:30",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Amer%20Fort%2C%20Rajasthan%2C%20India%2C%20travel"
+  },
+  {
+    "id": 50,
+    "name": "Periyar National Park",
+    "state": "Kerala",
+    "lat": 9.4622,
+    "lng": 77.2363,
+    "category": "national_park",
+    "rating": 4.5,
+    "cost": 1800,
+    "value": 88,
+    "visitHours": 5,
+    "interests": [
+      "wildlife",
+      "nature"
+    ],
+    "tags": [
+      "national-park",
+      "wildlife",
+      "kerala"
+    ],
+    "open": "06:00",
+    "close": "17:00",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Periyar%20National%20Park%2C%20Kerala%2C%20India%2C%20travel"
+  },
+  {
+    "id": 51,
+    "name": "Jim Corbett National Park",
+    "state": "Uttarakhand",
+    "lat": 29.53,
+    "lng": 78.7747,
+    "category": "national_park",
+    "rating": 4.6,
+    "cost": 2200,
+    "value": 90,
+    "visitHours": 6,
+    "interests": [
+      "wildlife",
+      "nature"
+    ],
+    "tags": [
+      "national-park",
+      "tiger",
+      "safari"
+    ],
+    "open": "06:00",
+    "close": "18:00",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Jim%20Corbett%20National%20Park%2C%20Uttarakhand%2C%20India%2C%20travel"
+  },
+  {
+    "id": 52,
+    "name": "Elephanta Caves",
+    "state": "Maharashtra",
+    "lat": 18.9633,
+    "lng": 72.9315,
+    "category": "heritage_site",
+    "rating": 4.4,
+    "cost": 800,
+    "value": 82,
+    "visitHours": 4,
+    "interests": [
+      "history",
+      "caves",
+      "architecture"
+    ],
+    "tags": [
+      "unesco",
+      "caves",
+      "mumbai"
+    ],
+    "open": "09:00",
+    "close": "17:30",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Elephanta%20Caves%2C%20Maharashtra%2C%20India%2C%20travel"
+  },
+  {
+    "id": 53,
+    "name": "Ajanta Caves",
+    "state": "Maharashtra",
+    "lat": 20.5519,
+    "lng": 75.7033,
+    "category": "heritage_site",
+    "rating": 4.7,
+    "cost": 900,
+    "value": 94,
+    "visitHours": 5,
+    "interests": [
+      "history",
+      "caves",
+      "art"
+    ],
+    "tags": [
+      "unesco",
+      "caves",
+      "aurangabad"
+    ],
+    "open": "09:00",
+    "close": "17:30",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Ajanta%20Caves%2C%20Maharashtra%2C%20India%2C%20travel"
+  },
+  {
+    "id": 54,
+    "name": "Ellora Caves",
+    "state": "Maharashtra",
+    "lat": 20.0268,
+    "lng": 75.1771,
+    "category": "heritage_site",
+    "rating": 4.8,
+    "cost": 900,
+    "value": 95,
+    "visitHours": 5,
+    "interests": [
+      "history",
+      "caves",
+      "architecture"
+    ],
+    "tags": [
+      "unesco",
+      "caves",
+      "aurangabad"
+    ],
+    "open": "09:00",
+    "close": "17:30",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Ellora%20Caves%2C%20Maharashtra%2C%20India%2C%20travel"
+  },
+  {
+    "id": 55,
+    "name": "Victoria Memorial",
+    "state": "West Bengal",
+    "lat": 22.5448,
+    "lng": 88.3426,
+    "category": "museum",
+    "rating": 4.6,
+    "cost": 500,
+    "value": 84,
+    "visitHours": 3,
+    "interests": [
+      "museum",
+      "history",
+      "architecture"
+    ],
+    "tags": [
+      "museum",
+      "kolkata",
+      "colonial"
+    ],
+    "open": "10:00",
+    "close": "17:00",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Victoria%20Memorial%2C%20West%20Bengal%2C%20India%2C%20travel"
+  },
+  {
+    "id": 56,
+    "name": "Indian Museum Kolkata",
+    "state": "West Bengal",
+    "lat": 22.5579,
+    "lng": 88.3509,
+    "category": "museum",
+    "rating": 4.5,
+    "cost": 300,
+    "value": 78,
+    "visitHours": 3,
+    "interests": [
+      "museum",
+      "history",
+      "culture"
+    ],
+    "tags": [
+      "museum",
+      "kolkata"
+    ],
+    "open": "10:00",
+    "close": "17:00",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Indian%20Museum%20Kolkata%2C%20West%20Bengal%2C%20India%2C%20travel"
+  },
+  {
+    "id": 57,
+    "name": "Marina Beach",
+    "state": "Tamil Nadu",
+    "lat": 13.05,
+    "lng": 80.2824,
+    "category": "beach",
+    "rating": 4.3,
+    "cost": 0,
+    "value": 74,
+    "visitHours": 3,
+    "interests": [
+      "coast",
+      "food",
+      "sunrise"
+    ],
+    "tags": [
+      "beach",
+      "chennai",
+      "coast"
+    ],
+    "open": "05:00",
+    "close": "22:00",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Marina%20Beach%2C%20Tamil%20Nadu%2C%20India%2C%20travel"
+  },
+  {
+    "id": 58,
+    "name": "Baga Beach",
+    "state": "Goa",
+    "lat": 15.5553,
+    "lng": 73.7517,
+    "category": "beach",
+    "rating": 4.5,
+    "cost": 600,
+    "value": 82,
+    "visitHours": 4,
+    "interests": [
+      "beaches",
+      "nightlife",
+      "food"
+    ],
+    "tags": [
+      "beach",
+      "goa",
+      "nightlife"
+    ],
+    "open": "05:00",
+    "close": "23:00",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Baga%20Beach%2C%20Goa%2C%20India%2C%20travel"
+  },
+  {
+    "id": 59,
+    "name": "Brihadeeswarar Temple",
+    "state": "Tamil Nadu",
+    "lat": 10.7828,
+    "lng": 79.1318,
+    "category": "temple",
+    "rating": 4.8,
+    "cost": 200,
+    "value": 92,
+    "visitHours": 3,
+    "interests": [
+      "temples",
+      "history",
+      "architecture"
+    ],
+    "tags": [
+      "unesco",
+      "temple",
+      "thanjavur"
+    ],
+    "open": "06:00",
+    "close": "20:30",
+    "imageUrl": "https://source.unsplash.com/1200x800/?Brihadeeswarar%20Temple%2C%20Tamil%20Nadu%2C%20India%2C%20travel"
+  }
+]
